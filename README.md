@@ -43,7 +43,7 @@ You can explore the solutions and model methodologies for the given problem on p
 This study was conducted as a group project.
 <ul>
   <li><a href="https://github.com/berkayuzer">Berkay ÜZER</a></li>
-  <li>İrem Gül ER</li>
+  <li><a href="https://github.com/erirem">İrem Gül ER</li>
 </ul>
 
 <h2>References</h2>
